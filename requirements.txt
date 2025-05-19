@@ -1,0 +1,10 @@
+langchain>=0.2.0
+langchain-community
+langchain-core
+cohere
+pydantic
+wikipedia
+pdfplumber
+PyPDF2
+faiss-cpu
+python-dotenv
